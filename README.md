@@ -4,7 +4,7 @@
 
 - 🏢 I'm working at **Microsoft** as a software engineer for GitHub
 - 🌱 Learning all about **React**, **Flutter** and **Relay**
-- 💬 Ask me about **game or mobile development** and **competitive programming**
+- 💬 Ask me about **game and mobile development** or **competitive programming**
 - 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame)
 - ⚡ Fun fact: I've been to 27+ countries and counting 📈
 
