@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there, I'm Andrew 👋
 
-<!--
-**anleac/anleac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a software engineer living in Berlin, 🇩🇪.
 
-Here are some ideas to get you started:
+- 🏢 I'm working at **Microsoft** as a software engineer for GitHub.
+- 🌱 Learning all about **Serverless** and **Flutter**
+- 💬 Ask me about **game or mobile development**, **React**, **competitive programming**
+- 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame)
+- ⚡ Fun fact: I've been to 27+ countries and counting 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👇 Hit me in your console to connect.
+
+```bash
+npx anleac
+```
+
+
+### 🧰 Languages & Tools
+
+[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Dart" width="32px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="CSharp" width="32px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="CPP" width="32px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/main/topics/sql/sql.png" />][website]
+
+<br />
+<br />
+
+
+### 📫 Find me
+
+* 🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/andrewkleas/)
+* 🗺️ [Web](https://andrewlea.ch/)
+
+[website]: https://andrewlea.ch/
