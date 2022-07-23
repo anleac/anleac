@@ -2,7 +2,7 @@
 
 ### I'm a software engineer living in Berlin, 🇩🇪.
 
-- 🏢 I'm working at **Microsoft** as a software engineer for GitHub.
+- 🏢 I'm working at **Microsoft** as a software engineer for GitHub
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ask me about **game or mobile development**, **React**, **competitive programming**
 - 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame)
@@ -29,7 +29,6 @@ npx anleac
 
 <br />
 <br />
-
 
 ### 📫 Find me
 
