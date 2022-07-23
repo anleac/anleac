@@ -6,7 +6,7 @@
 - 🌱 Learning all about **React**, **Flutter** and **Relay**
 - 💬 Ask me about **game and mobile development** or **competitive programming**
 - 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame)
-- ⚡ Fun fact: I've been to 27+ countries and counting 📈
+- ⚡ Fun fact: I've been to 25+ countries and counting 📈
 
 👇 Hit me in your console to connect.
 
