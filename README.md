@@ -26,8 +26,6 @@ npx anleac
 [<img align="left" style="padding-right: 12px" alt="CSharp" width="32px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="CPP" width="32px" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/main/topics/sql/sql.png" />][website]
-
-<br />
 <br />
 
 ### 📫 Find me
