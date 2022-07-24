@@ -8,7 +8,7 @@
 - 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame)
 - ⚡ Fun fact: I've been to 25+ countries and counting 📈
 
-👇 Hit me in your console to connect.
+👇 Write me in your console to connect.
 
 ```bash
 npx anleac
