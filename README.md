@@ -18,10 +18,10 @@ npx anleac
 
 ### 🧰 Languages & Tools
 
-[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Ruby" width="32px" src="https://github.com/github/explore/blob/main/topics/ruby/ruby.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="Dart" width="32px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="CSharp" width="32px" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" />][website]
