@@ -2,8 +2,8 @@
 
 ### I'm a software engineer living in Berlin, 🇩🇪.
 
-- 🏢 I'm working at **Microsoft** as a software engineer for GitHub
-- 🌱 Learning all about **React**, **Flutter** and **Relay**
+- 🏢 I'm working at **Microsoft** as a senior software engineer for GitHub
+- 🌱 Learning all about **React** and **Flutter**
 - 💬 Ask me about **game and mobile development** or **competitive programming**
 - 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame)
 - ⚡ Fun fact: I've been to 25+ countries and counting 📈
