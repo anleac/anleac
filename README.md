@@ -7,7 +7,6 @@
 - 💬 Ask me about **game and mobile development** or **competitive programming**
 - 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame)
 - ⚡ Fun fact: I've been to 30 countries (with 🇱🇻 being my 30th) and counting 📈
-- 🏳️‍🌈 Happy pride month!
 
 👇 Write me in your console to connect.
 
