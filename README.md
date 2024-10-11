@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew 👋
 
-### I'm working at **Microsoft** as a senior software engineer for GitHub.
+### I'm working at **Microsoft** as a senior software engineer.
 
 - 🏢 Currently based out of Germany 🇩🇪
 - 🌱 I'm passionate about learning new technologies, particularly **React** and **Flutter**
