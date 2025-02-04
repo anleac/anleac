@@ -32,7 +32,7 @@ npx anleac
 
 ### 📫 Find me
 
-* 🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/andrewkleas/)
-* 🗺️ [Portfolio](https://andrewlea.ch/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/andrewkleas/)
+* 🌍 [Portfolio](https://andrewlea.ch/)
 
 [website]: https://andrewlea.ch/
