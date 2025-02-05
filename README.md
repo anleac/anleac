@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew 👋
 
-### I'm a software engineer based out of Germany 🇩🇪👨‍💻
+### 👨‍💻 I'm a software engineer based out of Germany 🇩🇪
 
 - 🏢 Senior Software Engineer for Microsoft with 7+ years of experience
 - 🌱 5+ years of experiences in both **React** and **Flutter**
