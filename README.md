@@ -11,7 +11,7 @@
 👇 Write me in your console to connect.
 
 ```bash
-npx anleac
+npx -y anleac
 ```
 
 
