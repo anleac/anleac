@@ -3,7 +3,7 @@
 ### 👨‍💻 I'm a software engineer based out of Germany 🇩🇪
 
 - 🏢 Senior Software Engineer for Microsoft with 7+ years of experience
-- 🌱 5+ years of experiences in both **React** and **Flutter**
+- 🌱 5+ years of experience in both **React** and **Flutter**
 - 💬 Ask me about **game and mobile development** or **competitive programming**
 - 🚀 In my spare time I build mobile games utilizing [Flutter](https://flutter.dev/) with [Flame](https://pub.dev/packages/flame), see my projects [here](https://andrewlea.ch/)
 - ⚡ Fun fact: I've been to 30+ countries (with 🇱🇻 being my 30th) and counting 📈
