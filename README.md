@@ -29,10 +29,3 @@ npx -y anleac
 [<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/main/topics/sql/sql.png" />][website]
 <br />
 <br />
-
-### 📫 Find me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/andrewkleas/)
-* 🌍 [Portfolio](https://andrewlea.ch/)
-
-[website]: https://andrewlea.ch/
