@@ -12,5 +12,5 @@ Previously, I worked as a software engineer at **GitHub**, improving developer t
 
 ## More about me
 
-You can find more about **Andrew Leach**, senior software engineer at Microsoft in Berlin and Dresden, Germany, on my [personal site](https://andrewlea.ch).
+You can find more me on my [personal site](https://andrewlea.ch).
 If you’d like to connect or collaborate, feel free to open an issue or reach out.
