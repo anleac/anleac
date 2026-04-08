@@ -1,6 +1,6 @@
 # Andrew Leach – Senior Software Engineer
 
-👋 I'm a senior software engineer at **Microsoft**, working remotely in **Germany** between **Berlin** and **Dresden**. I build modern web applications with **React** and **TypeScript** and focus on clean, reliable frontends.
+👋 I'm a senior software engineer at **Microsoft**, working remotely in **Germany** I build modern web applications with **React** and **TypeScript** and focus on clean, reliable frontends.
 
 ## What I do
 
